@@ -1,5 +1,7 @@
 https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/projects/clmmb7ila04wztn01bj8ij16j/idea
 
+ETHChicago Hackathon Winner
+
 Custom trading strategy implementation and backtesting. Ashrith Bandla, Alex Beloiu, George Fane, Shashank Kalluri
 
 UPDATED DEMO LINK:
