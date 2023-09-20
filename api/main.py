@@ -226,6 +226,7 @@ def main(data_text):
 
     # Import OpenAI
 <<<<<<< HEAD
+    #placeholder API key, replace with your own to make it work
     openai.api_key = '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'
 =======
     openai.api_key = os.getenv('OPENAI')
