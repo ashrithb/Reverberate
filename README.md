@@ -12,8 +12,6 @@ https://drive.google.com/file/d/1o0tjcRsKTFHvH80VdrKnriFMFflpixi8/view?usp=shari
 
 Slides: https://docs.google.com/presentation/d/1lug_CpeXWq_IkhQ7DWFFU5D-6lDzxPavpMqGk_esrY4/edit?usp=sharing
 
-Github: https://github.com/GeorgeFane/ethchicago
-
 Technologies Used: Amberdata, OpenAI ChatGPT 4, React, Python Backtrader and Flask
 
 Description: This project aims to make crypto investing more accessible to people who are new to DeFi, or to traders who want to easily explore strategies.
